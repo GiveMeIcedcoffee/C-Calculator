@@ -1,2 +1,2 @@
 # C-Calculator
-this is just a c++ code simple calculator
+# A simple code for a basic calculator without any design
